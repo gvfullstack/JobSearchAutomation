@@ -26,9 +26,11 @@ That's it. The first time you run it, you'll be walked through a one-time setup.
 
 Optional but recommended:
 
-Complete the free AI-guided career workshop to define your ideal role. It takes about 15 minutes and gives the job search automation better inputs than manual entry.
+Complete one of these free AI-guided career workshops to define your ideal role. They take about 15 minutes and give the job search automation better inputs than manual entry.
 
 [Find Your Way - 5-Step Career Workshop](https://chatgpt.com/g/g-69a00483e9f88191a21ef94004da7893-find-your-way-5-step-career-workshop)
+
+[Linked Positioning Workshop](https://chatgpt.com/g/g-69ee70c2ad888191a34fcb973fd46fc3-linked-positioning-workshop)
 
 When you finish, ask the workshop to export your results as `ideal_role.json` and drop that file into this project folder.
 

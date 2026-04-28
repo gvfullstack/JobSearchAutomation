@@ -190,7 +190,7 @@ It must:
 
 - explain that the project searches Indeed, tracks results in Google Sheets, and tailors resumes
 - say the first run is guided onboarding and later runs are silent/automatic
-- recommend the career workshop and mention `ideal_role.json`
+- recommend the career workshop resources and mention `ideal_role.json`
 - explain the prerequisites:
   - Google account
   - connect Indeed in `claude.ai -> Settings -> Integrations`
@@ -479,7 +479,7 @@ It must include:
     - `JOB_LEVEL_TYPE`
     - `JOB_TITLES`
     - `KEYWORDS`
-  - if it does not exist, offer the workshop link first, otherwise collect fields manually
+  - if it does not exist, offer the workshop resources first, otherwise collect fields manually
 - always ask for `LOCATION` and `SALARY_MIN`
 - Step 4: resume review and upload
   - scan `resume/` first
